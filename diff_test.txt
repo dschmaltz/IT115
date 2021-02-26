@@ -9,3 +9,4 @@ $:> git commit -am"add diff test file"
 [master (root-commit) 6f77fc3] add diff test file
 1 file changed, 1 insertion(+)
 create mode 100644 diff_test.txt
+$:> echo "this is a diff example" > diff_test.txt
